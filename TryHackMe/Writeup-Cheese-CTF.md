@@ -1,6 +1,6 @@
 # Cheese CTF - TryHackMe Writeup 🧀
 
-Welcome to my writeup for the [Cheese CTF](https://tryhackme.com/room/cheesectfv10) room on TryHackMe.
+Welcome to my writeup for the [Cheese CTF](https://tryhackme.com/room/cheesectfv10) room on [TryHackMe](https://tryhackme.com/).
 
 This room focuses on web vulnerabilities, manual enumeration, and privilege escalation. Below, I walk through each step I took to compromise the machine and gain root access.
 
