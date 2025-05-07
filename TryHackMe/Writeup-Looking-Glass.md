@@ -25,7 +25,7 @@ Depending on the port, we received different responses like Higher or Lower. Thi
 After several attempts, we finally found the correct port — 13348 (note: this varies per instance).
 
 ## Vigenère Cipher Challenge
-Upon connecting to the correct port, we received encrypted text. Using an online Vigenère Cipher tool, we configured the following settings:
+Upon connecting to the correct port, we received encrypted text. Using an online [Vigenère Cipher tool](https://www.boxentriq.com/code-breaking/vigenere-cipher), we configured the following settings:
 
 * Min Key Length: 15
 
