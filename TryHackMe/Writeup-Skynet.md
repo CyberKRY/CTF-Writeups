@@ -45,6 +45,9 @@ Inside anonymous, we found:
 Directory ```logs/``` with ```log1.txt```, ```log2.txt```, ```log3.txt```
 
 In log1.txt we found a list of passwords.
+```python
+smbclient //10.10.84.128/anonymous -U "nothing" -c "recurse; prompt; mget *"
+```
 
 ## Obtaining Credentials
 We brute-forced SquirrelMail login using Hydra:
@@ -56,6 +59,9 @@ Once logged in, we retrieved the SMB password for milesdyson from the inbox.
 smbclient //10.10.84.128/milesdyson -U milesdyson
 ```
 We found the ```notes/important.txt``` file, revealing a hidden directory:
+```python
+mget important.txt
+```
 ```python
 /45kra24zxs28v3yd/
 ```
