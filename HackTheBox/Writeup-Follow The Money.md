@@ -1,4 +1,4 @@
-# Follow The Money – Write-up
+# Follow The Money – HTB Challenge Writeup (CTF Solution)
 
 ## Short description:
 
