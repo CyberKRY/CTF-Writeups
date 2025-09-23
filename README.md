@@ -10,3 +10,5 @@ Hi there! 👋 This is my personal repository with write-ups from [TryHackMe](ht
 - Practice penetration testing skills    
 - Maintain documentation for review and knowledge sharing   
 - Engage with the cybersecurity community and exchange experience
+
+<meta name="google-site-verification" content="zkvq7KAyUm8-mimMq4w-qj1725nCxp-edEu-m79tg_M" />
