@@ -4,7 +4,8 @@ Hi there! 👋 This is my personal repository with write-ups from [TryHackMe](ht
 
 ## Platforms
 - TryHackMe  
-- Hack The Box  
+- Hack The Box
+- PortSwigger
 
 ## Goals:
 - Practice penetration testing skills    
