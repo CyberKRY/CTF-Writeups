@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CyberKRY/CTF-Writeups/blob/main/PortSwigger/Images/portswigger.png" alt="PortSwigger" />
+  <img src="https://github.com/CyberKRY/CTF-Writeups/blob/main/PortSwigger/Cross-site%20scripting/Images/portswigger.png" alt="PortSwigger" />
 </p>
 
 <p align="center">
